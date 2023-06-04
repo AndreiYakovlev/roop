@@ -6,6 +6,6 @@ psutil==5.9.5
 tk==0.1.0
 pillow==9.5.0
 torch==2.0.1
-onnxruntime-openvino
+onnxruntime-openvino==1.14.0
 protobuf==4.23.2
 tqdm==4.65.0
