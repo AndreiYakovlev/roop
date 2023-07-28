@@ -1,0 +1,3 @@
+conda activate deepfake
+
+python run.py --execution-provider openvino --execution-threads 2
