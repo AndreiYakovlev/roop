@@ -1,3 +1,4 @@
 conda activate deepfake
 
-python run.py --execution-provider openvino --execution-threads 2
+python run.py --execution-provider openvino --temp-frame-format jpg --execution-threads 2
+python run.py --execution-provider dml --temp-frame-format jpg
